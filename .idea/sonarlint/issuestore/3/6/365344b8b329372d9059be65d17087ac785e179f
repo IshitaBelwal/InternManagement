@@ -1,0 +1,15 @@
+
+a
+java:S1192"LDefine a constant instead of duplicating this literal "intern_list" 3 times.(ÆœÂ$
+f
+java:S1192,"KDefine a constant instead of duplicating this literal "new_intern" 3 times.(‡›˜éøÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "allInterns" 3 times.(²¾Î“şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íİ£şÿÿÿÿ
+e
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•½ûÏùÿÿÿÿ
+c
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(èÛ¥Ôúÿÿÿÿ
+W
+java:S1128
+"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿ
